@@ -684,6 +684,17 @@
         "url": "https://github.com/semgrep/mcp-marketplace.git"
       },
       "homepage": "https://github.com/semgrep/mcp-marketplace.git"
+    },
+    {
+      "name": "postman",
+      "description": "Full API lifecycle management for Claude Code. Sync collections, generate client code, discover APIs, run tests, create mocks, publish docs, and audit security. Powered by the Postman MCP Server.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Postman-Devrel/postman-claude-code-plugin.git",
+        "sha": "0714280351c1a137e79aad465a66730511ffbd57"
+      },
+      "homepage": "https://learning.postman.com/docs/developer/postman-mcp-server/"
     }
   ]
 }
