@@ -385,6 +385,18 @@
       "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/plugins/explanatory-output-style"
     },
     {
+      "name": "expo",
+      "description": "Official Expo skills for building, deploying, upgrading, and debugging React Native apps with Expo. Covers UI development with Expo Router, SwiftUI and Jetpack Compose components, Tailwind CSS setup, API routes, data fetching, CI/CD workflows, App Store and Play Store deployment, SDK upgrades, DOM components, and dev client distribution.",
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "expo/skills",
+        "path": "plugins/expo",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/expo/skills/blob/main/plugins/expo/README.md"
+    },
+    {
       "name": "fakechat",
       "description": "Localhost web chat for testing the channel notification flow. No tokens, no access control, no third-party service.",
       "category": "development",
