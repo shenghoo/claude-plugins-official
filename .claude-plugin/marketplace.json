@@ -1589,6 +1589,22 @@
       "homepage": "https://github.com/vercel/vercel-plugin"
     },
     {
+      "name": "video-transcribe",
+      "description": "Transcribe MP4 videos to text and SRT subtitles. Extract audio using ffmpeg, transcribe with Whisper AI, output pure text and SRT subtitle formats for video editing.",
+      "author": {
+        "name": "sheng",
+        "email": "shenghoo@163.com"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/shenghoo/skills-video-transcribe",
+        "path": "video-transcribe",
+        "ref": "master"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/shenghoo/skills-video-transcribe"
+    },
+    {
       "name": "voila-api",
       "description": "Definitive guide for the Voila API. Covers shipment creation (Manual/Smart Shipping), real-time tracking, detailed history, manifesting, collections, webhooks, and third-party integrations (Sorted, Peoplevox, Mintsoft, Veeqo, JD).",
       "source": {
