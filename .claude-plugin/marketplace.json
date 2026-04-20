@@ -1590,7 +1590,7 @@
     },
     {
       "name": "video-transcribe",
-      "description": "Transcribe MP4 videos to text and SRT subtitles. Extract audio using ffmpeg, transcribe with Whisper AI, output pure text and SRT subtitle formats for video editing.",
+      "description": "Transcribe MP4 videos to text and SRT subtitles. Automatically detects GPU/CPU and uses optimal configuration. Extract audio using ffmpeg, transcribe with Whisper AI, output pure text and SRT subtitle formats.",
       "author": {
         "name": "sheng",
         "email": "shenghoo@163.com"
