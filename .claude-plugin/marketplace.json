@@ -1599,7 +1599,8 @@
         "source": "git-subdir",
         "url": "https://github.com/shenghoo/skills-video-transcribe",
         "path": "video-transcribe",
-        "ref": "master"
+        "ref": "master",
+        "sha": "3cc311e8f5e0c7e4c5b2d6a1f8e9c0b3d4a5e6f7"
       },
       "category": "productivity",
       "homepage": "https://github.com/shenghoo/skills-video-transcribe"
